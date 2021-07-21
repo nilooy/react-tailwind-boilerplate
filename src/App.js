@@ -3,8 +3,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <h1>
-Pokemon
+        <h1 className="text-red-500">
+                Pokemon
         </h1>
     </div>
   );
